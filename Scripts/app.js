@@ -1,7 +1,7 @@
 /* main JavaScript file */
 /*File Name: app.js
 * Author's Name: Johaen Gnanakumar
-* Website's Name:
+* Website's Name:comp125MyProfile
 * File Description:This is where the javascipt functions are applied
 */
 // IIFE - Immediately Invoked Function Expression
